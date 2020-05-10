@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Pandu Purwadi"
   avatar           : "/images/Pandupurwadi18.JPG"
-  bio              : "Tech and Design enthusiasm"
+  bio              : "Data and Design enthusiasm"
   location         : "Indonesia"
   email            :
   links:
@@ -114,9 +114,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pandupurwadi18"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://https://www.linkedin.com/in/pandupurwadi18/"
 
 # Site Footer
 footer:
